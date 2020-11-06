@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import App from './app/App';
+import Game from './game/Game';
 
 ReactDOM.render(
     <React.StrictMode>
-        <App/>
+        <Game/>
     </React.StrictMode>,
     document.getElementById('root')
 );
