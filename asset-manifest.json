@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tts-w03-d04-react-tic-tac-toe/static/css/main.4357f1a2.chunk.css",
+    "main.js": "/tts-w03-d04-react-tic-tac-toe/static/js/main.a1bc69de.chunk.js",
+    "main.js.map": "/tts-w03-d04-react-tic-tac-toe/static/js/main.a1bc69de.chunk.js.map",
+    "runtime-main.js": "/tts-w03-d04-react-tic-tac-toe/static/js/runtime-main.640b088c.js",
+    "runtime-main.js.map": "/tts-w03-d04-react-tic-tac-toe/static/js/runtime-main.640b088c.js.map",
+    "static/css/2.43b2b750.chunk.css": "/tts-w03-d04-react-tic-tac-toe/static/css/2.43b2b750.chunk.css",
+    "static/js/2.9dd170fe.chunk.js": "/tts-w03-d04-react-tic-tac-toe/static/js/2.9dd170fe.chunk.js",
+    "static/js/2.9dd170fe.chunk.js.map": "/tts-w03-d04-react-tic-tac-toe/static/js/2.9dd170fe.chunk.js.map",
+    "index.html": "/tts-w03-d04-react-tic-tac-toe/index.html",
+    "static/css/2.43b2b750.chunk.css.map": "/tts-w03-d04-react-tic-tac-toe/static/css/2.43b2b750.chunk.css.map",
+    "static/css/main.4357f1a2.chunk.css.map": "/tts-w03-d04-react-tic-tac-toe/static/css/main.4357f1a2.chunk.css.map",
+    "static/js/2.9dd170fe.chunk.js.LICENSE.txt": "/tts-w03-d04-react-tic-tac-toe/static/js/2.9dd170fe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.640b088c.js",
+    "static/css/2.43b2b750.chunk.css",
+    "static/js/2.9dd170fe.chunk.js",
+    "static/css/main.4357f1a2.chunk.css",
+    "static/js/main.a1bc69de.chunk.js"
+  ]
+}
