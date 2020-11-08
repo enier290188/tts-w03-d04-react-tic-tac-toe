@@ -4,6 +4,7 @@
   "homepage": "https://enier290188.github.io/tts-w03-d04-react-tic-tac-toe",
   "private": true,
   "dependencies": {
+    "axios": "^0.21.0",
     "bootstrap": "^4.5.3",
     "gh-pages": "^3.1.0",
     "jquery": "^3.5.1",
